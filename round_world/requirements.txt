@@ -1,0 +1,5 @@
+ursina==5.2.0
+Pillow>=9.0
+numpy>=1.20
+screeninfo>=0.8
+pyobjc-framework-Cocoa>=9.0; sys_platform == "darwin"
